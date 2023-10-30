@@ -1,0 +1,38 @@
+Opposite Team,Match Date,Position,Ground,Runs Scored,Weather,Mins,Ball Faced,Avg of runs.,4s,Avg 4s,6s,Avg 6s,Scoring Level
+v Pakistan,1-Jun-18,9,Leeds,20,cloiudy,52,38,40,4,2,0,0.2,Medium
+v India,1-Aug-18,8,Birmingham,24,Windy,98,71,39,3,2.4,0,0.6,Medium
+v India,1-Aug-18,8,Birmingham,63,Sunny,102,65,36,9,3.4,2,1,High
+v India,9-Aug-18,8,Lord's,40,Sunny,67,49,34,5,4,1,1.8,Medium
+v India,30-Aug-18,8,Southampton,78,cloudy,188,136,43,8,4.5,1,1,High
+v India,30-Aug-18,8,Southampton,46,Sunny,128,83,45,6,5.8,0,0.8,Medium
+v India,7-Sep-18,8,The Oval,0,Windy,4,2,50.2,0,6.2,0,0.8,Low
+v India,7-Sep-18,8,The Oval,21,Sunny,48,30,45.4,1,5.6,1,1,Medium
+v Sri Lanka,6-Nov-18,8,Galle,48,cloudy,66,104,37,1,4,3,1,Medium
+v Sri Lanka,14-Nov-18,8,Pallekele,64,Sunny,43,119,38.6,1,3.2,6,1,High
+v Sri Lanka,14-Nov-18,9,Pallekele,0,Sunny,1,1,35.8,0,1.8,0,2,Low
+v West Indies,23-Jan-19,9,Bridgetown,14,Sunny,44,27,26.6,3,0.6,0,2,Low
+v West Indies,23-Jan-19,9,Bridgetown,17,cloudy,38,25,29.4,3,1.2,0,2,Low
+v West Indies,31-Jan-19,9,North Sound,6,Windy,23,8,28.6,1,1.6,0,1.8,Low
+v West Indies,31-Jan-19,9,North Sound,13*,Sunny,24,15,20.2,2,1.6,0,1.2,High
+v Ireland,24-Jul-19,8,Lord's,18,Sunny,41,16,10,2,1.8,0,0,Low
+v Ireland,24-Jul-19,9,Lord's,37,cloudy,44,29,13.6,4,2.2,2,0,Medium
+v Australia,12-Sep-19,7,The Oval,15,Sunny,24,13,18.2,1,2.4,1,0.4,Low
+v Australia,12-Sep-19,7,The Oval,17,cloudy,39,26,17.8,2,2,0,0.6,Low
+v New Zealand,21-Nov-19,8,Mount Maunganui,0,Sunny,4,1,20,0,2.2,0,0.6,Low
+v New Zealand,21-Nov-19,9,Mount Maunganui,29,cloudy,91,59,17.4,6,1.8,0,0.6,High
+v New Zealand,29-Nov-19,8,Hamilton,11,Windy,33,15,19.6,1,2.6,0,0.6,High
+v South Africa,26-Dec-19,8,Centurion,20,Sunny,36,24,14.4,4,2,0,0.2,Medium
+v South Africa,26-Dec-19,8,Centurion,9,Sunny,15,10,15.4,2,2.6,0,0,Low
+v South Africa,3-Jan-20,8,Cape Town,9,sunny,15,13,13.8,2,2.6,0,0,Low
+v South Africa,3-Jan-20,9,Cape Town,13,Sunny,17,15,15.6,2,3,0,0,Low
+v South Africa,16-Jan-20,8,Gqeberha,44,Sunny,60,50,12.4,6,2.2,1,0,Medium
+v South Africa,24-Jan-20,8,Johannesburg,0,sunny,1,1,19,0,3.2,0,0.2,Low
+v South Africa,24-Jan-20,8,Johannesburg,35,Sunny,37,29,15,6,2.4,0,0.2,Medium
+v West Indies,16-Jul-20,9,Manchester,17,sunny,54,39,20.2,1,3.2,1,0.4,Low
+v Sri Lanka,14-Jan-21,7,Galle,0,Sunny,3,1,21.8,0,3,0,0.4,Low
+v Sri Lanka,22-Jan-21,7,Galle,13,Sunny,45,43,19.2,0,2.6,1,0.4,Low
+v India,4-Aug-21,8,Nottingham,27,cloudy,57,37,13,4,1.4,1,0.6,High
+v India,4-Aug-21,8,Nottingham,32,Sunny,69,45,18.4,4,2.2,0,0.6,Medium
+v India,12-Aug-21,8,Lord's,0,Sunny,3,1,17.8,0,1.8,0,0.4,Low
+v India,12-Aug-21,8,Lord's,0,Sunny,3,1,14.4,0,1.6,0,0.4,Low
+v India,25-Aug-21,8,Leeds,15,cloudy,40,30,14.4,2,1.6,0,0.2,Low
